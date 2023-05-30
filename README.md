@@ -5,6 +5,7 @@ A project for sentiment analysis of twitter posts on the topic of climate change
 ## INSTRUCTIONS:
 
 Create a python environment using python 3.10.
+
 Install libraries from requirements.txt file using pip install -r requirements.txt
 
 The code is run through 'main.py'. Provide full path to the script when running.
@@ -15,5 +16,5 @@ There are several configuration parameters on top of main.py which can be used t
 
 Please note, some models may require more time to run depending on the machine the script will run on
 
-Please, allow few minutes
+Allow a few minutes for the models to complete running
    
